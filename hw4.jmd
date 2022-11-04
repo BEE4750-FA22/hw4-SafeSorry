@@ -19,7 +19,7 @@ Pkg.instantiate()
 # Problem 1
 
 ## Problem 1.1
-```julia; echo=false
+```julia;
 Components = ["Food Wastes","Paper & Cardboard","Plastics","Textiles","Rubber and Leather","Wood","Yard Wastes","Glass","Ferrous",
 "Aluminum","Other Metal","Misc"]
 
