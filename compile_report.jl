@@ -17,3 +17,4 @@ end
 if !isinteractive()
     compile_report(ARGS...)
 end
+
