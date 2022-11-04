@@ -162,7 +162,7 @@ The optimal objective value is 35525. The facility that wont be
 used is the waste to energy facility. A diagram is below, the locations 
 and distances of each site are not accurate.
 
-![Model 1:]("flowmodel2.pdf")
+![Model 1](/Users/sonjay/Desktop/BEE4750/hw4-SafeSorry/flow1.png)
 
 # Problem 2
 
@@ -239,12 +239,10 @@ value.(R)
 A diagram is below. The distances and positions of the sites 
 are not accurate. The flows are correct. The objective value is 46200.
 
-![Model 2: Carbon Tax]("flowmodel2.pdf")
+![Model 2: Carbon Tax](/Users/sonjay/Desktop/BEE4750/hw4-SafeSorry/flow2.png)
 
 
 
 # References
 ##include("compile_report.jl")
 #compile_report("hw4.jmd","html")
-
-#M = 10,000
