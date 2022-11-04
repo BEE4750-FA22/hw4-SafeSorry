@@ -180,7 +180,7 @@ and increased tipping fee for the WTE facility.
 
 
 ## Problem 2.2
-```julia; echo=false
+```julia
 waste_carbon = Model(HiGHS.Optimizer)
 I = 1:2; #number of cities
 J = 1:3; #number of disposal sites
